@@ -48,7 +48,7 @@ console.log(chemSymbol.cloze);
 console.log(chemSymbol.partial); 
 console.log('-------------------------------------');
 
-var brokenCloze = new flashCards.ClozeCard("This doesn't work", "oops");
+var brokenCloze = new flashCards.ClozeCard("This doesn't work", "apple");
 console.log(brokenCloze.full);
 console.log(brokenCloze.cloze); 
 console.log(brokenCloze.partial); 
