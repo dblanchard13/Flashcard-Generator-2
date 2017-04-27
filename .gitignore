@@ -1,0 +1,2 @@
+# you don't want git to track your folder of dependencies, just tracking the package.json will be enough.
+node_modules
